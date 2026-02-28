@@ -1,0 +1,1 @@
+<command><name>osha-audit</name><instructions>Generate a custom safety walk checklist.</instructions></command>

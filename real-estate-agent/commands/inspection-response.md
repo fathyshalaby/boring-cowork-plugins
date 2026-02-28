@@ -1,0 +1,1 @@
+<command><name>inspection-response</name><instructions>Draft an addendum/repair request response arguing back against ticky-tack functional obsolescence.</instructions></command>

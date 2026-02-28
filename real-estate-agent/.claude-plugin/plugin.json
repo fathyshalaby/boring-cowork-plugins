@@ -1,0 +1,80 @@
+{
+  "name": "Real Estate Agent",
+  "namespace": "real-estate",
+  "icon": "home",
+  "description": "A comprehensive plugin for listing agents and buyer's agents handling contracts, negotiations, and marketing.",
+  "skills": [
+    {
+      "name": "market-analysis.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "contract-terminology.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "negotiation-tactics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "listing-descriptions.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "buyer-qualifying.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "fair-housing.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "inspection-responses.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "lead-generation.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "social-media.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "appraisal-gap.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "property-description",
+      "name": "property-description.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "cma-summary",
+      "name": "cma-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "inspection-response",
+      "name": "inspection-response.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "open-house-followup",
+      "name": "open-house-followup.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "offer-summary",
+      "name": "offer-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "lead-search",
+      "name": "lead-search.md",
+      "description": "Search public listing sites for FSBO/Expired leads and generate outreach scripts."
+    }
+  ]
+}

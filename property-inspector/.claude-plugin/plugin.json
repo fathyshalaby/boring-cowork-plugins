@@ -1,0 +1,75 @@
+{
+  "name": "Property Inspector",
+  "namespace": "inspect",
+  "icon": "search",
+  "description": "A comprehensive plugin for residential and commercial property inspectors.",
+  "skills": [
+    {
+      "name": "defect-classification.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "report-tone.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "electrical-codes.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "plumbing-standards.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "roofing-materials.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "foundation-cracks.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "hvac-inspection.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "mold-asbestos.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "structural-integrity.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "radon-testing.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "defect-summary",
+      "name": "defect-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "executive-summary",
+      "name": "executive-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "contractor-recommendation",
+      "name": "contractor-recommendation.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "client-email",
+      "name": "client-email.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "photo-caption",
+      "name": "photo-caption.md",
+      "description": "Executable action"
+    }
+  ]
+}

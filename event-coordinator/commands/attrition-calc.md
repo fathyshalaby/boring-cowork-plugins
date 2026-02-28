@@ -1,0 +1,1 @@
+<command><name>attrition-calc</name><instructions>Calculate hotel penalties.</instructions></command>

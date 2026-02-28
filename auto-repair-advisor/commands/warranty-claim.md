@@ -1,0 +1,1 @@
+<command><name>warranty-claim</name><instructions>Draft an airtight claim to the manufacturer.</instructions></command>

@@ -1,0 +1,1 @@
+<command><name>safety-toolbox</name><instructions>Generate a 5-minute morning safety toolbox talk.</instructions></command>

@@ -1,0 +1,75 @@
+{
+  "name": "Waste Management",
+  "namespace": "waste",
+  "icon": "trash",
+  "description": "A comprehensive plugin for collection routes, recycling contamination, and hazmat compliance.",
+  "skills": [
+    {
+      "name": "hazardous-classification.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "routing-efficiency.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "recycling-contamination.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "universal-waste.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "landfill-operations.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "container-sizing.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "osha-safety.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "compactor-mechanics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "composting-organics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "fleet-maintenance.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "contamination-notice",
+      "name": "contamination-notice.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "manifest-draft",
+      "name": "manifest-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "route-audit",
+      "name": "route-audit.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "container-quote",
+      "name": "container-quote.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "safety-toolbox",
+      "name": "safety-toolbox.md",
+      "description": "Executable action"
+    }
+  ]
+}

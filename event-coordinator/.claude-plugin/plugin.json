@@ -1,0 +1,75 @@
+{
+  "name": "Event Coordinator",
+  "namespace": "event-coordinator",
+  "icon": "calendar-check",
+  "description": "Helps planners build BEOs, timelines, and manage vendors.",
+  "skills": [
+    {
+      "name": "beo-structure.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "dietary-restrictions.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "room-capacities.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "run-of-show.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "vendor-management.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "attrition-clauses.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "servsafe-rules.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "liquor-liability.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "event-rfp.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "contingency-planning.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "generate-beo",
+      "name": "generate-beo.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "dietary-matrix",
+      "name": "dietary-matrix.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "run-of-show",
+      "name": "run-of-show.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "vendor-arrival",
+      "name": "vendor-arrival.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "attrition-calc",
+      "name": "attrition-calc.md",
+      "description": "Executable action"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+<command><name>manifest-draft</name><instructions>Draft shipping manifest for collected items.</instructions></command>

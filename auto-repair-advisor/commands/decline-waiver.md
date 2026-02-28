@@ -1,0 +1,1 @@
+<command><name>decline-waiver</name><instructions>Legal-sounding sign-off for refused safety repair.</instructions></command>

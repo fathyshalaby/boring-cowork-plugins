@@ -1,0 +1,75 @@
+{
+  "name": "HVAC Technician",
+  "namespace": "hvac",
+  "icon": "thermometer",
+  "description": "A comprehensive plugin for HVAC techs covering residential, commercial, and safety compliance.",
+  "skills": [
+    {
+      "name": "safety-protocols.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "troubleshooting-methodology.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "customer-communication.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "manual-j-basics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "refrigerant-handling.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "airflow-diagnostics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "zonal-systems.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "commercial-chillers.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "heat-pump-defrost.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "indoor-air-quality.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "quote",
+      "name": "quote.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "load-calc",
+      "name": "load-calc.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "service-report",
+      "name": "service-report.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "maintenance-checklist",
+      "name": "maintenance-checklist.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "epa-log",
+      "name": "epa-log.md",
+      "description": "Executable action"
+    }
+  ]
+}

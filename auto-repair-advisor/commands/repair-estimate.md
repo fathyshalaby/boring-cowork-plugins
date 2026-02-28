@@ -1,0 +1,1 @@
+<command><name>repair-estimate</name><instructions>Translate mechanic shorthand into a quote.</instructions></command>

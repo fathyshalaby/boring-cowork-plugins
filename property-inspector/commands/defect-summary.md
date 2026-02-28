@@ -1,0 +1,1 @@
+<command><name>defect-summary</name><instructions>Rewrite field notes into formal defect finding.</instructions></command>

@@ -1,0 +1,1 @@
+<command><name>appeal-letter</name><instructions>Draft a robust appeal to insurance.</instructions></command>

@@ -1,0 +1,1 @@
+<command><name>open-house-followup</name><instructions>Draft an engaging text drip campaign for visitors who signed in at an open house.</instructions></command>

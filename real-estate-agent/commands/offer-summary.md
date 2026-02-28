@@ -1,0 +1,1 @@
+<command><name>offer-summary</name><instructions>Condense a 15-page purchase agreement into a bulleted 1-page summary for the seller to quickly digest the terms.</instructions></command>

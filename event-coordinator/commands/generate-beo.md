@@ -1,0 +1,1 @@
+<command><name>generate-beo</name><instructions>Parse an email thread into a BEO.</instructions></command>

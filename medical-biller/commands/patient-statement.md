@@ -1,0 +1,1 @@
+<command><name>patient-statement</name><instructions>Explain EOB balance to a patient.</instructions></command>

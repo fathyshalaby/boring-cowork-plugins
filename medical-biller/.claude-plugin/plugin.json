@@ -1,0 +1,75 @@
+{
+  "name": "Medical Billing Specialist",
+  "namespace": "medical-biller",
+  "icon": "file-medical",
+  "description": "Aids in ICD-10/CPT coding extraction and insurance denial appeals.",
+  "skills": [
+    {
+      "name": "icd-10-guidelines.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "cpt-coding.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "hipaa-compliance.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "eob-analysis.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "claim-denials.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "prior-authorization.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "lcd-ncd.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "medical-terminology.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "revenue-cycle.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "telehealth-billing.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "code-extraction",
+      "name": "code-extraction.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "appeal-letter",
+      "name": "appeal-letter.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "patient-statement",
+      "name": "patient-statement.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "auth-request",
+      "name": "auth-request.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "coding-query",
+      "name": "coding-query.md",
+      "description": "Executable action"
+    }
+  ]
+}

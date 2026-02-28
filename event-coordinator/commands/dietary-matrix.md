@@ -1,0 +1,1 @@
+<command><name>dietary-matrix</name><instructions>Extract allergies into a chef table.</instructions></command>

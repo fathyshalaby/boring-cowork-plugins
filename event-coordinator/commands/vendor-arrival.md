@@ -1,0 +1,1 @@
+<command><name>vendor-arrival</name><instructions>Mass logistics email to vendors.</instructions></command>

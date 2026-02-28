@@ -1,0 +1,1 @@
+<command><name>damage-summary</name><instructions>Formal Statement of Loss summary.</instructions></command>

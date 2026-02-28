@@ -1,0 +1,1 @@
+<command><name>daily-log</name><instructions>Formal daily site report.</instructions></command>

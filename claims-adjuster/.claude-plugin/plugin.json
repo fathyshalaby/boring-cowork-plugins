@@ -1,0 +1,75 @@
+{
+  "name": "Claims Adjuster",
+  "namespace": "claims-adjuster",
+  "icon": "clipboard-list",
+  "description": "Assists adjusters with field estimates, depreciation, and policies.",
+  "skills": [
+    {
+      "name": "policy-interpretation.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "depreciation-rules.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "xactimate-basics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "matching-statutes.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "mitigation.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "code-upgrades.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "roof-damage.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "subrogation.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "bad-faith.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "business-interruption.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "damage-summary",
+      "name": "damage-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "contractor-pushback",
+      "name": "contractor-pushback.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "reservation-of-rights",
+      "name": "reservation-of-rights.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "depreciation-calc",
+      "name": "depreciation-calc.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "recorded-statement",
+      "name": "recorded-statement.md",
+      "description": "Executable action"
+    }
+  ]
+}

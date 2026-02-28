@@ -1,0 +1,1 @@
+<command><name>schedule-generator</name><instructions>Generate daily/weekly cleaning schedules.</instructions></command>

@@ -1,0 +1,1 @@
+<command><name>executive-summary</name><instructions>Aggregate hazards into 1-page summary.</instructions></command>

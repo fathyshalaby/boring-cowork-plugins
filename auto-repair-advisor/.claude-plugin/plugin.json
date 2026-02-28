@@ -1,0 +1,75 @@
+{
+  "name": "Auto Repair Service Advisor",
+  "namespace": "auto-repair",
+  "icon": "wrench",
+  "description": "Helps service advisors translate mechanic jargon, generate fast quotes, and process warranties.",
+  "skills": [
+    {
+      "name": "jargon-translation.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "warranty-compliance.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "labor-times.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "upsell-ethics.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "ro-writing.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "parts-sourcing.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "diagnostic-trouble-codes.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "fluid-specs.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "tire-wear.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "price-objection.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "repair-estimate",
+      "name": "repair-estimate.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "warranty-claim",
+      "name": "warranty-claim.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "customer-update",
+      "name": "customer-update.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "decline-waiver",
+      "name": "decline-waiver.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "tech-dispatch",
+      "name": "tech-dispatch.md",
+      "description": "Executable action"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+<command><name>route-audit</name><instructions>Analyze route notes to suggest efficiency improvements.</instructions></command>

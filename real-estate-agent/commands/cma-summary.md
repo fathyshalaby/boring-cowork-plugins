@@ -1,0 +1,1 @@
+<command><name>cma-summary</name><instructions>Summarize 3 comparable sales into an email to the seller justifying the suggested list price.</instructions></command>

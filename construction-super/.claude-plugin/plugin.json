@@ -1,0 +1,75 @@
+{
+  "name": "Construction Superintendent",
+  "namespace": "construction-super",
+  "icon": "hard-hat",
+  "description": "Helps site supers handle daily logs, delay notices, and sub-contractors.",
+  "skills": [
+    {
+      "name": "cpm-scheduling.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "osha-30.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "plan-reading.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "rfi-process.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "change-orders.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "submittal-logs.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "swppp.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "punch-list.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "lien-waivers.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "weather-delays.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "daily-log",
+      "name": "daily-log.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "change-order",
+      "name": "change-order.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "delay-notice",
+      "name": "delay-notice.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "rfi-draft",
+      "name": "rfi-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "sub-warning",
+      "name": "sub-warning.md",
+      "description": "Executable action"
+    }
+  ]
+}

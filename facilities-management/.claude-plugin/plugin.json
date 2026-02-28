@@ -1,0 +1,75 @@
+{
+  "name": "Facilities Management",
+  "namespace": "facilities",
+  "icon": "building",
+  "description": "A comprehensive plugin for commercial facilities, janitorial, and maintenance management.",
+  "skills": [
+    {
+      "name": "pm-schedules.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "osha-compliance.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "hvac-filters.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "fire-life-safety.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "floor-care.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "pest-control.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "vendor-management.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "energy-efficiency.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "plumbing-maintenance.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "capital-planning.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "schedule-generator",
+      "name": "schedule-generator.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "work-order",
+      "name": "work-order.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "vendor-rfp",
+      "name": "vendor-rfp.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "tenant-update",
+      "name": "tenant-update.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "osha-audit",
+      "name": "osha-audit.md",
+      "description": "Executable action"
+    }
+  ]
+}

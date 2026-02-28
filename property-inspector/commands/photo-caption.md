@@ -1,0 +1,1 @@
+<command><name>photo-caption</name><instructions>Generate professional captions for defect photos.</instructions></command>

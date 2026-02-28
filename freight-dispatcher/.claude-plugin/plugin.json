@@ -1,0 +1,75 @@
+{
+  "name": "Freight Dispatcher",
+  "namespace": "freight",
+  "icon": "truck",
+  "description": "A comprehensive plugin for logistics dispatchers managing fleets and brokering loads.",
+  "skills": [
+    {
+      "name": "logistics-terminology.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "hours-of-service.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "communication-style.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "market-rates.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "equipment-types.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "compliance-safety.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "lumper-policies.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "cross-border.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "route-planning.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "claims-management.md",
+      "description": "Core knowledge"
+    }
+  ],
+  "commands": [
+    {
+      "id": "rate-con",
+      "name": "rate-con.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "status",
+      "name": "status.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "negotiate",
+      "name": "negotiate.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "detention-request",
+      "name": "detention-request.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "driver-instructions",
+      "name": "driver-instructions.md",
+      "description": "Executable action"
+    }
+  ]
+}

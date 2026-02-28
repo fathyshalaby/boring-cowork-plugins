@@ -1,0 +1,1 @@
+<command><name>property-description</name><instructions>Generate a captivating, Fair Housing-compliant MLS listing description from rough property notes.</instructions></command>

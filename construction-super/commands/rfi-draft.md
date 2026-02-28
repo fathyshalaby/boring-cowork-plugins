@@ -1,0 +1,1 @@
+<command><name>rfi-draft</name><instructions>Format a clash into a concise RFI.</instructions></command>
