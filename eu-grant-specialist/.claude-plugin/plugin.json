@@ -1,0 +1,104 @@
+{
+  "name": "EU Grant Specialist",
+  "namespace": "eu",
+  "icon": "globe",
+  "description": "Assistant for horizon Europe proposal writers and consortia managers.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "impact-pathway",
+      "name": "impact-pathway.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "budget-justification",
+      "name": "budget-justification.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "work-package-draft",
+      "name": "work-package-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "call-analysis",
+      "name": "call-analysis.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "consortium-invite",
+      "name": "consortium-invite.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

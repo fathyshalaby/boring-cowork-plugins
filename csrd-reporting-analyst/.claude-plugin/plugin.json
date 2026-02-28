@@ -1,0 +1,104 @@
+{
+  "name": "ESG & CSRD Reporting Specialist",
+  "namespace": "csrd",
+  "icon": "globe",
+  "description": "Assistant for Sustainability Analysts handling CSRD, ESRS, and Double Materiality.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "materiality-assessment",
+      "name": "materiality-assessment.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "esrs-gap-analysis",
+      "name": "esrs-gap-analysis.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "scope3-summary",
+      "name": "scope3-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "policy-draft",
+      "name": "policy-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "audit-prep",
+      "name": "audit-prep.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

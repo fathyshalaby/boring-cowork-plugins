@@ -1,0 +1,104 @@
+{
+  "name": "University Registrar",
+  "namespace": "university",
+  "icon": "users",
+  "description": "Assistant for Academic Advisors and Registrars handling audits and petitions.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "transfer-eval",
+      "name": "transfer-eval.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "degree-audit",
+      "name": "degree-audit.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "petition-response",
+      "name": "petition-response.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "academic-standing",
+      "name": "academic-standing.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "course-equivalency",
+      "name": "course-equivalency.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

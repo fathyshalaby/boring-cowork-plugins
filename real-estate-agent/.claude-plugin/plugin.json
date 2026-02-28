@@ -43,6 +43,30 @@
     {
       "name": "appraisal-gap.md",
       "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
     }
   ],
   "commands": [
@@ -75,6 +99,11 @@
       "id": "lead-search",
       "name": "lead-search.md",
       "description": "Search public listing sites for FSBO/Expired leads and generate outreach scripts."
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
     }
   ]
 }

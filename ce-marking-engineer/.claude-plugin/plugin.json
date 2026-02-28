@@ -1,0 +1,104 @@
+{
+  "name": "CE Marking Engineer",
+  "namespace": "ce",
+  "icon": "settings",
+  "description": "Assistant for Certification Engineers managing EU Directives and Technical Files.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Cross-cutting operational reality"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "doc-draft",
+      "name": "doc-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "risk-assessment",
+      "name": "risk-assessment.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "manual-compliance",
+      "name": "manual-compliance.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "standard-lookup",
+      "name": "standard-lookup.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "tcf-checklist",
+      "name": "tcf-checklist.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

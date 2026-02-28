@@ -1,0 +1,104 @@
+{
+  "name": "hoa-manager",
+  "namespace": "hoa",
+  "icon": "book",
+  "description": "Assistant for HOA Property Managers handling residents, vendors, and CC&R enforcement.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "violation-notice",
+      "name": "violation-notice.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "vendor-bid-compare",
+      "name": "vendor-bid-compare.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "reserve-planner",
+      "name": "reserve-planner.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "arb-response",
+      "name": "arb-response.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "newsletter",
+      "name": "newsletter.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

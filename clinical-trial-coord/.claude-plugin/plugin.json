@@ -1,0 +1,104 @@
+{
+  "name": "Clinical Trial Coordinator",
+  "namespace": "clinical",
+  "icon": "activity",
+  "description": "Assistant for Protocol Coordinators managing IRB submissions and consent forms.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "consent-form",
+      "name": "consent-form.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "inclusion-criteria",
+      "name": "inclusion-criteria.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "irb-submission",
+      "name": "irb-submission.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "sae-report",
+      "name": "sae-report.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "protocol-summary",
+      "name": "protocol-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

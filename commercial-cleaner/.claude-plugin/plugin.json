@@ -1,0 +1,104 @@
+{
+  "name": "commercial-cleaner",
+  "namespace": "commercial",
+  "icon": "book",
+  "description": "Assistant for Commercial Cleaning / Janitorial Supervisors managing shifts, QA, and inventory.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "qa-report",
+      "name": "qa-report.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "inventory-order",
+      "name": "inventory-order.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "shift-coverage",
+      "name": "shift-coverage.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "sop-draft",
+      "name": "sop-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "client-response",
+      "name": "client-response.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Patent Examiner / IP",
+  "namespace": "patent",
+  "icon": "file-text",
+  "description": "Assistant for Patent Examiners and IP Paralegals managing claims and prior art.",
+  "skills": [
+    {
+      "name": "skill-1.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-2.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-3.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-4.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-5.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-6.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-7.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-8.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-9.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-10.md",
+      "description": "Core knowledge"
+    },
+    {
+      "name": "skill-11.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-12.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-13.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-14.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-15.md",
+      "description": "Universal professional operational skill"
+    },
+    {
+      "name": "skill-16.md",
+      "description": "Mechanism for continuous self-improvement and learning from the user."
+    }
+  ],
+  "commands": [
+    {
+      "id": "prior-art-summary",
+      "name": "prior-art-summary.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "claim-draft",
+      "name": "claim-draft.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "office-action-response",
+      "name": "office-action-response.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "drawing-desc",
+      "name": "drawing-desc.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "infringement-analysis",
+      "name": "infringement-analysis.md",
+      "description": "Executable action"
+    },
+    {
+      "id": "self-improve",
+      "name": "self-improve.md",
+      "description": "Trigger the self-improvement protocol to learn from the current conversation."
+    }
+  ]
+}

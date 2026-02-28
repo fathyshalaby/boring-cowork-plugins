@@ -1,0 +1,3 @@
+## Self-Improvement Protocol
+
+Self-Improvement Protocol: When given the /self-improve command, carefully review the recent conversation history for any repeated corrections by the user, newly discovered domain edge-cases, or specific user preferences regarding output format or tone. Formulate these learnings into core, actionable instructions. Then, use your file-editing capabilities to write these new instructions permanently into a new markdown file within your `skills/` directory (e.g., `skill-self-taught-[date].md`) and update your `.claude-plugin/plugin.json` manifest to include this new skill. This ensures you continuously learn and adapt to the user's specific workflow.
