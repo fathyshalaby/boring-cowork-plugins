@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Documentation Architecture"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "API Documentation"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Style Guide & Writing Standards"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Technical Editing & Review"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Docs-as-Code Workflow"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "User-Facing Error Messages & Microcopy"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Release Notes & Changelogs"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Content Management & Localization"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Diagram & Visual Documentation"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Developer Onboarding Documentation"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "openapi-to-markdown",
       "name": "openapi-to-markdown.md",
-      "description": "Executable action"
+      "description": "OpenAPI to Markdown Converter"
     },
     {
       "id": "release-notes",
       "name": "release-notes.md",
-      "description": "Executable action"
+      "description": "Release Notes Generator"
     },
     {
       "id": "tutorial-draft",
       "name": "tutorial-draft.md",
-      "description": "Executable action"
+      "description": "Tutorial Draft Generator"
     },
     {
       "id": "code-comment-extract",
       "name": "code-comment-extract.md",
-      "description": "Executable action"
+      "description": "Code Comment Extractor"
     },
     {
       "id": "changelog-update",
       "name": "changelog-update.md",
-      "description": "Executable action"
+      "description": "Changelog Entry"
     },
     {
       "id": "self-improve",

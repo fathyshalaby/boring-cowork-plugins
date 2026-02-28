@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "FERPA Compliance & Student Privacy"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Academic Records & Transcripts"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Registration & Enrollment Management"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Degree Audit & Graduation"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Transfer Credit Evaluation"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Academic Policies & Catalog Management"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Enrollment Reporting & Compliance"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Scheduling & Room Assignment"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Student Information Systems (SIS)"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Commencement & Ceremonial Functions"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "transfer-eval",
       "name": "transfer-eval.md",
-      "description": "Executable action"
+      "description": "Transfer Credit Evaluation"
     },
     {
       "id": "degree-audit",
       "name": "degree-audit.md",
-      "description": "Executable action"
+      "description": "Degree Audit Summary"
     },
     {
       "id": "petition-response",
       "name": "petition-response.md",
-      "description": "Executable action"
+      "description": "Academic Petition Response"
     },
     {
       "id": "academic-standing",
       "name": "academic-standing.md",
-      "description": "Executable action"
+      "description": "Academic Standing Report"
     },
     {
       "id": "course-equivalency",
       "name": "course-equivalency.md",
-      "description": "Executable action"
+      "description": "Course Equivalency Guide"
     },
     {
       "id": "self-improve",

@@ -26,7 +26,7 @@
     },
     {
       "name": "prior-authorization.md",
-      "description": "Core knowledge"
+      "description": "Prior Authorization Management"
     },
     {
       "name": "lcd-ncd.md",
@@ -38,7 +38,7 @@
     },
     {
       "name": "revenue-cycle.md",
-      "description": "Core knowledge"
+      "description": "Revenue Cycle Management"
     },
     {
       "name": "telehealth-billing.md",
@@ -78,12 +78,12 @@
     {
       "id": "appeal-letter",
       "name": "appeal-letter.md",
-      "description": "Executable action"
+      "description": "Claim Appeal Letter"
     },
     {
       "id": "patient-statement",
       "name": "patient-statement.md",
-      "description": "Executable action"
+      "description": "Patient Statement Template"
     },
     {
       "id": "auth-request",

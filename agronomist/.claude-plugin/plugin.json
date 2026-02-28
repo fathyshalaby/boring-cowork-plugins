@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Soil Science & Fertility Management"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Crop Scouting & Field Diagnostics"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Crop Rotation & Cropping Systems"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Precision Agriculture Technology"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Water Management & Irrigation"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Pest Management & Crop Protection"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Regulatory & Environmental Compliance"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Grain Marketing & Risk Management"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Weather Interpretation & Risk Assessment"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Client & Grower Relations"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "fertilizer-calc",
       "name": "fertilizer-calc.md",
-      "description": "Executable action"
+      "description": "Fertilizer Recommendation Calculator"
     },
     {
       "id": "pest-risk-model",
       "name": "pest-risk-model.md",
-      "description": "Executable action"
+      "description": "Pest Risk Assessment"
     },
     {
       "id": "crop-rotation-plan",
       "name": "crop-rotation-plan.md",
-      "description": "Executable action"
+      "description": "Crop Rotation Plan"
     },
     {
       "id": "scouting-report",
       "name": "scouting-report.md",
-      "description": "Executable action"
+      "description": "Field Scouting Report"
     },
     {
       "id": "yield-estimate",
       "name": "yield-estimate.md",
-      "description": "Executable action"
+      "description": "Pre-Harvest Yield Estimate"
     },
     {
       "id": "self-improve",

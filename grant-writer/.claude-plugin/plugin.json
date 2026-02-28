@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Grant Landscape & Funding Sources"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Proposal Writing Fundamentals"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Budget Development & Justification"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Compliance & Regulatory Requirements"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Needs Assessment & Logic Models"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "NIH Grant Writing"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "NSF Proposal Writing"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Foundation Grant Writing"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Post-Award Grant Management"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Grant Writing for Nonprofits"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "rfp-requirements",
       "name": "rfp-requirements.md",
-      "description": "Executable action"
+      "description": "RFP Requirements Extraction"
     },
     {
       "id": "budget-narrative",
       "name": "budget-narrative.md",
-      "description": "Executable action"
+      "description": "Grant Budget Narrative"
     },
     {
       "id": "compliance-check",
       "name": "compliance-check.md",
-      "description": "Executable action"
+      "description": "Grant Compliance Checklist"
     },
     {
       "id": "abstract-draft",
       "name": "abstract-draft.md",
-      "description": "Executable action"
+      "description": "Project Abstract/Summary"
     },
     {
       "id": "letters-of-support",
       "name": "letters-of-support.md",
-      "description": "Executable action"
+      "description": "Letter of Support Template"
     },
     {
       "id": "self-improve",

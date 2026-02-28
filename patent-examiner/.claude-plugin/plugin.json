@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Patent Law Fundamentals"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Prior Art Search Strategies"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Claim Drafting & Analysis"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Patent Prosecution Procedures"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Obviousness Analysis (\u00a7103)"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Patent Drawings & Specifications"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "International Patent Protection"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Patent Infringement & Freedom-to-Operate"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Patent Portfolio Management"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Patent Valuation & Licensing"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "prior-art-summary",
       "name": "prior-art-summary.md",
-      "description": "Executable action"
+      "description": "Prior Art Search Summary"
     },
     {
       "id": "claim-draft",
       "name": "claim-draft.md",
-      "description": "Executable action"
+      "description": "Patent Claim Draft"
     },
     {
       "id": "office-action-response",
       "name": "office-action-response.md",
-      "description": "Executable action"
+      "description": "Office Action Response Framework"
     },
     {
       "id": "drawing-desc",
       "name": "drawing-desc.md",
-      "description": "Executable action"
+      "description": "Patent Drawing Description"
     },
     {
       "id": "infringement-analysis",
       "name": "infringement-analysis.md",
-      "description": "Executable action"
+      "description": "Infringement Analysis Worksheet"
     },
     {
       "id": "self-improve",

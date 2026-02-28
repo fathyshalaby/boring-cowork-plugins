@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Metadata Standards & Dublin Core"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Digital Preservation Strategies"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Digitization Standards & Workflows"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Archival Arrangement & Description"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Digital Repository Management"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Copyright & Rights Management"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Data Migration & Format Management"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Digital Exhibits & Public Access"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Disaster Preparedness & Recovery"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Grant Writing for Archives"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "dublin-core",
       "name": "dublin-core.md",
-      "description": "Executable action"
+      "description": "Dublin Core Metadata Template"
     },
     {
       "id": "finding-aid",
       "name": "finding-aid.md",
-      "description": "Executable action"
+      "description": "Finding Aid Generator"
     },
     {
       "id": "data-cleanup",
       "name": "data-cleanup.md",
-      "description": "Executable action"
+      "description": "Metadata Cleanup Script"
     },
     {
       "id": "metadata-mapping",
       "name": "metadata-mapping.md",
-      "description": "Executable action"
+      "description": "Metadata Crosswalk"
     },
     {
       "id": "preservation-plan",
       "name": "preservation-plan.md",
-      "description": "Executable action"
+      "description": "Preservation Plan Template"
     },
     {
       "id": "self-improve",

@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Parts Procurement & Sourcing"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Inventory Management & Control"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Expediting & Delivery Management"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Supplier Performance Management"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "MRO Parts & Maintenance Support"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "BOM Management & Analysis"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Logistics & Freight Management"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Quality & Receiving Inspection"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "ERP/MRP System Management"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Cost Reduction & Value Engineering"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "status-chase",
       "name": "status-chase.md",
-      "description": "Executable action"
+      "description": "Order Status Chase Report"
     },
     {
       "id": "supplier-scorecard",
       "name": "supplier-scorecard.md",
-      "description": "Executable action"
+      "description": "Supplier Performance Scorecard"
     },
     {
       "id": "bom-analyzer",
       "name": "bom-analyzer.md",
-      "description": "Executable action"
+      "description": "BOM Shortage Analysis"
     },
     {
       "id": "discrepancy-report",
       "name": "discrepancy-report.md",
-      "description": "Executable action"
+      "description": "Receiving Discrepancy Report"
     },
     {
       "id": "internal-update",
       "name": "internal-update.md",
-      "description": "Executable action"
+      "description": "Internal Stakeholder Update"
     },
     {
       "id": "self-improve",

@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Pest Identification & Biology"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Integrated Pest Management (IPM)"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Pesticide Application & Safety"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Termite Management"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Bed Bug Management"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Rodent Management"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Ant Management"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Wildlife & Nuisance Animal Management"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Regulatory Compliance & Licensing"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Client Communication & Service Reports"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "chemical-log",
       "name": "chemical-log.md",
-      "description": "Executable action"
+      "description": "Chemical Application Log"
     },
     {
       "id": "treatment-plan",
       "name": "treatment-plan.md",
-      "description": "Executable action"
+      "description": "Treatment Plan Proposal"
     },
     {
       "id": "id-matrix",
       "name": "id-matrix.md",
-      "description": "Executable action"
+      "description": "Pest Identification Matrix"
     },
     {
       "id": "service-report",
       "name": "service-report.md",
-      "description": "Executable action"
+      "description": "Service Visit Report"
     },
     {
       "id": "prep-sheet",
       "name": "prep-sheet.md",
-      "description": "Executable action"
+      "description": "Client Preparation Instructions"
     },
     {
       "id": "self-improve",

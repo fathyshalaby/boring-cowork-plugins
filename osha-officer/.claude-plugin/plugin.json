@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "OSHA Regulatory Framework"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Hazard Identification & JHA"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Incident Investigation & Reporting"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Fall Protection Programs"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Lockout/Tagout (LOTO) Programs"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Hazard Communication (GHS/HazCom)"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Respiratory Protection Programs"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Emergency Action Plans"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Safety Training Program Design"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "OSHA Inspection & Citation Response"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "incident-report",
       "name": "incident-report.md",
-      "description": "Executable action"
+      "description": "OSHA Incident Report"
     },
     {
       "id": "toolbox-talk-prep",
       "name": "toolbox-talk-prep.md",
-      "description": "Executable action"
+      "description": "Toolbox Talk Outline"
     },
     {
       "id": "osha-risk-assessment",
       "name": "osha-risk-assessment.md",
-      "description": "Executable action"
+      "description": "Safety Risk Assessment"
     },
     {
       "id": "audit-checklist",
       "name": "audit-checklist.md",
-      "description": "Executable action"
+      "description": "Safety Audit Checklist"
     },
     {
       "id": "citation-response",
       "name": "citation-response.md",
-      "description": "Executable action"
+      "description": "OSHA Citation Response"
     },
     {
       "id": "self-improve",

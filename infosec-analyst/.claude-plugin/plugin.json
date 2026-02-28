@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Security Frameworks & Standards"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Risk Assessment Methodology"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Vulnerability Management"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Incident Response"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Security Architecture & Controls"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Security Awareness & Training"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Compliance & Audit Management"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Identity & Access Management"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Security Monitoring & SIEM"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Third-Party Risk Management"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "vendor-questionnaire",
       "name": "vendor-questionnaire.md",
-      "description": "Executable action"
+      "description": "Security Vendor Questionnaire"
     },
     {
       "id": "control-mapping",
       "name": "control-mapping.md",
-      "description": "Executable action"
+      "description": "Security Control Mapping"
     },
     {
       "id": "incident-summary",
       "name": "incident-summary.md",
-      "description": "Executable action"
+      "description": "Security Incident Summary"
     },
     {
       "id": "risk-assessment",
       "name": "risk-assessment.md",
-      "description": "Executable action"
+      "description": "Risk Assessment Template"
     },
     {
       "id": "policy-draft",
       "name": "policy-draft.md",
-      "description": "Executable action"
+      "description": "Security Policy Draft"
     },
     {
       "id": "self-improve",

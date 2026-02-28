@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "HOA Governance & Legal Framework"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Financial Management & Budgeting"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Architectural Review & Standards"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Maintenance & Common Area Management"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Rule Enforcement & Violations"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Insurance & Risk Management"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Communication & Community Relations"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Reserve Study & Long-Term Planning"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Collections & Legal Processes"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Transition from Developer Control"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "violation-notice",
       "name": "violation-notice.md",
-      "description": "Executable action"
+      "description": "Violation Notice Generator"
     },
     {
       "id": "vendor-bid-compare",
       "name": "vendor-bid-compare.md",
-      "description": "Executable action"
+      "description": "Vendor Bid Comparison"
     },
     {
       "id": "reserve-planner",
       "name": "reserve-planner.md",
-      "description": "Executable action"
+      "description": "Reserve Fund Projection"
     },
     {
       "id": "arb-response",
       "name": "arb-response.md",
-      "description": "Executable action"
+      "description": "Architectural Review Response"
     },
     {
       "id": "newsletter",
       "name": "newsletter.md",
-      "description": "Executable action"
+      "description": "Community Newsletter Template"
     },
     {
       "id": "self-improve",

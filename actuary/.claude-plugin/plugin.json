@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "Actuarial Terminology & Communication"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Ratemaking & Pricing Methodology"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Executive Communication & Memoranda"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Reserving & IBNR Estimation"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Regulatory Filing Expertise"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Statistical Analysis & Modeling"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Experience Rating & Modification"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Catastrophe Modeling & Risk"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Reinsurance Analysis"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Professionalism & Ethical Standards"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "filing-memo",
       "name": "filing-memo.md",
-      "description": "Executable action"
+      "description": "Actuarial Filing Memorandum"
     },
     {
       "id": "executive-summary",
       "name": "executive-summary.md",
-      "description": "Executable action"
+      "description": "Actuarial Executive Summary"
     },
     {
       "id": "guideline-draft",
       "name": "guideline-draft.md",
-      "description": "Executable action"
+      "description": "Underwriting Guideline Draft"
     },
     {
       "id": "rate-impact",
       "name": "rate-impact.md",
-      "description": "Executable action"
+      "description": "Rate Impact Analysis"
     },
     {
       "id": "loss-ratio-analysis",
       "name": "loss-ratio-analysis.md",
-      "description": "Executable action"
+      "description": "Loss Ratio Analysis Report"
     },
     {
       "id": "self-improve",

@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "HACCP Plan Development"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Food Safety Regulations & Standards"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Temperature Control & Monitoring"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Allergen Management"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Sanitation & Cleaning Programs"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Pest Management in Food Facilities"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Supplier Management & Receiving"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Recall & Traceability"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "GMP & Prerequisite Programs"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Food Safety Training Programs"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "haccp-log",
       "name": "haccp-log.md",
-      "description": "Executable action"
+      "description": "HACCP Monitoring Log"
     },
     {
       "id": "recall-trace-prep",
       "name": "recall-trace-prep.md",
-      "description": "Executable action"
+      "description": "Mock Recall Exercise"
     },
     {
       "id": "sanitation-protocol",
       "name": "sanitation-protocol.md",
-      "description": "Executable action"
+      "description": "Sanitation SOP"
     },
     {
       "id": "gmp-audit",
       "name": "gmp-audit.md",
-      "description": "Executable action"
+      "description": "GMP Audit Checklist"
     },
     {
       "id": "supplier-review",
       "name": "supplier-review.md",
-      "description": "Executable action"
+      "description": "Supplier Approval Form"
     },
     {
       "id": "self-improve",

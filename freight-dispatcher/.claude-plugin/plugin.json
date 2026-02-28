@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "logistics-terminology.md",
-      "description": "Core knowledge"
+      "description": "Logistics & Freight Terminology"
     },
     {
       "name": "hours-of-service.md",
-      "description": "Core knowledge"
+      "description": "FMCSA Hours of Service (HOS) Rules"
     },
     {
       "name": "communication-style.md",
-      "description": "Core knowledge"
+      "description": "Professional Communication Style"
     },
     {
       "name": "market-rates.md",
-      "description": "Core knowledge"
+      "description": "Freight Market Rate Intelligence"
     },
     {
       "name": "equipment-types.md",
-      "description": "Core knowledge"
+      "description": "Trailer & Equipment Types"
     },
     {
       "name": "compliance-safety.md",
-      "description": "Core knowledge"
+      "description": "Compliance & Safety Regulations"
     },
     {
       "name": "lumper-policies.md",
-      "description": "Core knowledge"
+      "description": "Lumper Fee Management"
     },
     {
       "name": "cross-border.md",
-      "description": "Core knowledge"
+      "description": "Cross-Border (US-Canada-Mexico) Operations"
     },
     {
       "name": "route-planning.md",
-      "description": "Core knowledge"
+      "description": "Route Planning & Optimization"
     },
     {
       "name": "claims-management.md",
-      "description": "Core knowledge"
+      "description": "Cargo Claims Management"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "rate-con",
       "name": "rate-con.md",
-      "description": "Executable action"
+      "description": "Generate Rate Confirmation"
     },
     {
       "id": "status",
       "name": "status.md",
-      "description": "Executable action"
+      "description": "Load Status Update"
     },
     {
       "id": "negotiate",
       "name": "negotiate.md",
-      "description": "Executable action"
+      "description": "Rate Negotiation Script"
     },
     {
       "id": "detention-request",
       "name": "detention-request.md",
-      "description": "Executable action"
+      "description": "Detention Fee Request"
     },
     {
       "id": "driver-instructions",
       "name": "driver-instructions.md",
-      "description": "Executable action"
+      "description": "Driver Pickup/Delivery Instructions"
     },
     {
       "id": "self-improve",

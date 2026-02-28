@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "safety-protocols.md",
-      "description": "Core knowledge"
+      "description": "HVAC Safety Protocols"
     },
     {
       "name": "troubleshooting-methodology.md",
-      "description": "Core knowledge"
+      "description": "Systematic Troubleshooting Methodology"
     },
     {
       "name": "customer-communication.md",
-      "description": "Core knowledge"
+      "description": "Customer Communication & Upselling"
     },
     {
       "name": "manual-j-basics.md",
-      "description": "Core knowledge"
+      "description": "Manual J Load Calculations"
     },
     {
       "name": "refrigerant-handling.md",
-      "description": "Core knowledge"
+      "description": "Refrigerant Handling & Charging"
     },
     {
       "name": "airflow-diagnostics.md",
-      "description": "Core knowledge"
+      "description": "Airflow Diagnostics & Duct Design"
     },
     {
       "name": "zonal-systems.md",
-      "description": "Core knowledge"
+      "description": "Zoned Systems & Mini-Splits"
     },
     {
       "name": "commercial-chillers.md",
-      "description": "Core knowledge"
+      "description": "Commercial Chiller Systems"
     },
     {
       "name": "heat-pump-defrost.md",
-      "description": "Core knowledge"
+      "description": "Heat Pump Defrost Cycles"
     },
     {
       "name": "indoor-air-quality.md",
-      "description": "Core knowledge"
+      "description": "Indoor Air Quality (IAQ) Solutions"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "quote",
       "name": "quote.md",
-      "description": "Executable action"
+      "description": "Generate HVAC Repair/Replacement Quote"
     },
     {
       "id": "load-calc",
       "name": "load-calc.md",
-      "description": "Executable action"
+      "description": "Quick Load Calculation Estimate"
     },
     {
       "id": "service-report",
       "name": "service-report.md",
-      "description": "Executable action"
+      "description": "Generate Service Report"
     },
     {
       "id": "maintenance-checklist",
       "name": "maintenance-checklist.md",
-      "description": "Executable action"
+      "description": "Seasonal Maintenance Checklist"
     },
     {
       "id": "epa-log",
       "name": "epa-log.md",
-      "description": "Executable action"
+      "description": "EPA Refrigerant Tracking Log"
     },
     {
       "id": "self-improve",

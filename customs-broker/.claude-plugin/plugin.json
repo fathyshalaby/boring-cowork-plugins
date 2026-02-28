@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "HTS Classification & Tariff Schedule"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "Entry Filing & CBP Procedures"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Duty Calculation & Valuation"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Trade Compliance & Regulations"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "FTA & Rules of Origin"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Bonded Warehousing & FTZ Operations"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Import/Export Documentation"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Sanctions & Denied Party Screening"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Logistics & Supply Chain Coordination"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "C-TPAT & Trusted Trader Programs"
     },
     {
       "name": "skill-11.md",
@@ -73,27 +73,27 @@
     {
       "id": "hts-classification",
       "name": "hts-classification.md",
-      "description": "Executable action"
+      "description": "HTS Classification Worksheet"
     },
     {
       "id": "usmca-verification",
       "name": "usmca-verification.md",
-      "description": "Executable action"
+      "description": "USMCA Origin Verification"
     },
     {
       "id": "detention-response",
       "name": "detention-response.md",
-      "description": "Executable action"
+      "description": "CBP Detention Response"
     },
     {
       "id": "invoice-audit",
       "name": "invoice-audit.md",
-      "description": "Executable action"
+      "description": "Commercial Invoice Audit"
     },
     {
       "id": "incoterm-summary",
       "name": "incoterm-summary.md",
-      "description": "Executable action"
+      "description": "Incoterms Reference"
     },
     {
       "id": "self-improve",

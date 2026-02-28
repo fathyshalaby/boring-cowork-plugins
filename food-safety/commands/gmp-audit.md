@@ -1,3 +1,28 @@
-# Command: /foodsafety:gmp-audit
+# Command: /food:gmp-audit
 
-Format these rough notes from a floor walkthrough into a formal GMP compliance audit report.
+Generate a GMP audit checklist for a food facility.
+
+## Output Format
+```
+GMP AUDIT CHECKLIST
+Facility: [name] | Date: [date]
+Auditor: [name]
+
+#   Category              Item                            C/NC    Notes
+──────────────────────────────────────────────────────────────────────────
+    PERSONNEL HYGIENE
+1   Handwashing           Proper technique observed        ☐      [note]
+2   Dress code            Hair restraints, clean uniform   ☐      [note]
+3   Illness policy        Policy posted, understood        ☐      [note]
+
+    FACILITY
+4   Floors                Clean, good repair               ☐      [note]
+5   Walls/Ceilings        No damage, peeling               ☐      [note]
+6   Lighting              Adequate, shields in place        ☐      [note]
+
+[Continue for all GMP categories]
+
+SCORE: [X] / [total] ([X]%)
+CRITICAL NON-CONFORMANCES: [count]
+CORRECTIVE ACTIONS DUE: [date]
+```

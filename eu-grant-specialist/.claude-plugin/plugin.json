@@ -6,43 +6,43 @@
   "skills": [
     {
       "name": "skill-1.md",
-      "description": "Core knowledge"
+      "description": "EU Funding Programmes Landscape"
     },
     {
       "name": "skill-2.md",
-      "description": "Core knowledge"
+      "description": "The Funding & Tenders Portal"
     },
     {
       "name": "skill-3.md",
-      "description": "Core knowledge"
+      "description": "Proposal Structure (Excellence, Impact, Implementation)"
     },
     {
       "name": "skill-4.md",
-      "description": "Core knowledge"
+      "description": "Consortium Building & Management"
     },
     {
       "name": "skill-5.md",
-      "description": "Core knowledge"
+      "description": "Budgeting & Cost Eligibility"
     },
     {
       "name": "skill-6.md",
-      "description": "Core knowledge"
+      "description": "Lump Sum Funding"
     },
     {
       "name": "skill-7.md",
-      "description": "Core knowledge"
+      "description": "Grant Agreement Preparation (GAP)"
     },
     {
       "name": "skill-8.md",
-      "description": "Core knowledge"
+      "description": "Project Reporting & Reviews"
     },
     {
       "name": "skill-9.md",
-      "description": "Core knowledge"
+      "description": "Audits & Compliance"
     },
     {
       "name": "skill-10.md",
-      "description": "Core knowledge"
+      "description": "Ethics, Open Science & Gender Requirements"
     },
     {
       "name": "skill-11.md",
@@ -73,7 +73,7 @@
     {
       "id": "impact-pathway",
       "name": "impact-pathway.md",
-      "description": "Executable action"
+      "description": "Pathway to Impact Canvas"
     },
     {
       "id": "budget-justification",

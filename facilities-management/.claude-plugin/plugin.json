@@ -30,7 +30,7 @@
     },
     {
       "name": "vendor-management.md",
-      "description": "Core knowledge"
+      "description": "Vendor & Contract Management"
     },
     {
       "name": "energy-efficiency.md",
@@ -78,7 +78,7 @@
     {
       "id": "work-order",
       "name": "work-order.md",
-      "description": "Executable action"
+      "description": "Generate Work Order"
     },
     {
       "id": "vendor-rfp",
