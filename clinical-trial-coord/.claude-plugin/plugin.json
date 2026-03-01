@@ -5,68 +5,68 @@
   "description": "Assistant for Protocol Coordinators managing IRB submissions and consent forms.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "gcp-regulatory-framework.md",
       "description": "GCP & Regulatory Framework"
     },
     {
-      "name": "skill-2.md",
+      "name": "informed-consent-process.md",
       "description": "Informed Consent Process"
     },
     {
-      "name": "skill-3.md",
+      "name": "subject-recruitment-retention.md",
       "description": "Subject Recruitment & Retention"
     },
     {
-      "name": "skill-4.md",
+      "name": "adverse-event-reporting.md",
       "description": "Adverse Event Reporting"
     },
     {
-      "name": "skill-5.md",
+      "name": "protocol-compliance-deviations.md",
       "description": "Protocol Compliance & Deviations"
     },
     {
-      "name": "skill-6.md",
+      "name": "data-management-source-documentation.md",
       "description": "Data Management & Source Documentation"
     },
     {
-      "name": "skill-7.md",
+      "name": "irb-iec-management.md",
       "description": "IRB/IEC Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "monitoring-visit-preparation.md",
       "description": "Monitoring Visit Preparation"
     },
     {
-      "name": "skill-9.md",
+      "name": "study-drug-device-management.md",
       "description": "Study Drug & Device Management"
     },
     {
-      "name": "skill-10.md",
+      "name": "study-closeout-procedures.md",
       "description": "Study Closeout Procedures"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

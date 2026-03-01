@@ -5,68 +5,68 @@
   "description": "Assistant for GRC Analysts handling SOC 2, vendor questionnaires, and audits.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "security-frameworks-standards.md",
       "description": "Security Frameworks & Standards"
     },
     {
-      "name": "skill-2.md",
+      "name": "risk-assessment-methodology.md",
       "description": "Risk Assessment Methodology"
     },
     {
-      "name": "skill-3.md",
+      "name": "vulnerability-management.md",
       "description": "Vulnerability Management"
     },
     {
-      "name": "skill-4.md",
+      "name": "incident-response.md",
       "description": "Incident Response"
     },
     {
-      "name": "skill-5.md",
+      "name": "security-architecture-controls.md",
       "description": "Security Architecture & Controls"
     },
     {
-      "name": "skill-6.md",
+      "name": "security-awareness-training.md",
       "description": "Security Awareness & Training"
     },
     {
-      "name": "skill-7.md",
+      "name": "compliance-audit-management.md",
       "description": "Compliance & Audit Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "identity-access-management.md",
       "description": "Identity & Access Management"
     },
     {
-      "name": "skill-9.md",
+      "name": "security-monitoring-siem.md",
       "description": "Security Monitoring & SIEM"
     },
     {
-      "name": "skill-10.md",
+      "name": "third-party-risk-management.md",
       "description": "Third-Party Risk Management"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

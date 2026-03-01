@@ -5,68 +5,68 @@
   "description": "Assistant for horizon Europe proposal writers and consortia managers.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "eu-funding-programmes-landscape.md",
       "description": "EU Funding Programmes Landscape"
     },
     {
-      "name": "skill-2.md",
+      "name": "the-funding-tenders-portal.md",
       "description": "The Funding & Tenders Portal"
     },
     {
-      "name": "skill-3.md",
+      "name": "proposal-structure-excellence-impact-implementation.md",
       "description": "Proposal Structure (Excellence, Impact, Implementation)"
     },
     {
-      "name": "skill-4.md",
+      "name": "consortium-building-management.md",
       "description": "Consortium Building & Management"
     },
     {
-      "name": "skill-5.md",
+      "name": "budgeting-cost-eligibility.md",
       "description": "Budgeting & Cost Eligibility"
     },
     {
-      "name": "skill-6.md",
+      "name": "lump-sum-funding.md",
       "description": "Lump Sum Funding"
     },
     {
-      "name": "skill-7.md",
+      "name": "grant-agreement-preparation-gap.md",
       "description": "Grant Agreement Preparation (GAP)"
     },
     {
-      "name": "skill-8.md",
+      "name": "project-reporting-reviews.md",
       "description": "Project Reporting & Reviews"
     },
     {
-      "name": "skill-9.md",
+      "name": "audits-compliance.md",
       "description": "Audits & Compliance"
     },
     {
-      "name": "skill-10.md",
+      "name": "ethics-open-science-gender-requirements.md",
       "description": "Ethics, Open Science & Gender Requirements"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

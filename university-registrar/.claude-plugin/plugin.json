@@ -5,68 +5,68 @@
   "description": "Assistant for Academic Advisors and Registrars handling audits and petitions.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "ferpa-compliance-student-privacy.md",
       "description": "FERPA Compliance & Student Privacy"
     },
     {
-      "name": "skill-2.md",
+      "name": "academic-records-transcripts.md",
       "description": "Academic Records & Transcripts"
     },
     {
-      "name": "skill-3.md",
+      "name": "registration-enrollment-management.md",
       "description": "Registration & Enrollment Management"
     },
     {
-      "name": "skill-4.md",
+      "name": "degree-audit-graduation.md",
       "description": "Degree Audit & Graduation"
     },
     {
-      "name": "skill-5.md",
+      "name": "transfer-credit-evaluation.md",
       "description": "Transfer Credit Evaluation"
     },
     {
-      "name": "skill-6.md",
+      "name": "academic-policies-catalog-management.md",
       "description": "Academic Policies & Catalog Management"
     },
     {
-      "name": "skill-7.md",
+      "name": "enrollment-reporting-compliance.md",
       "description": "Enrollment Reporting & Compliance"
     },
     {
-      "name": "skill-8.md",
+      "name": "scheduling-room-assignment.md",
       "description": "Scheduling & Room Assignment"
     },
     {
-      "name": "skill-9.md",
+      "name": "student-information-systems-sis.md",
       "description": "Student Information Systems (SIS)"
     },
     {
-      "name": "skill-10.md",
+      "name": "commencement-ceremonial-functions.md",
       "description": "Commencement & Ceremonial Functions"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

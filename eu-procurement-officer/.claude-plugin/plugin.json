@@ -5,68 +5,68 @@
   "description": "Assistant for Tenders managing OJS TED notices, ESPDs, and EU Directives.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "public-procurement-directives-overview.md",
       "description": "Public Procurement Directives Overview"
     },
     {
-      "name": "skill-2.md",
+      "name": "procurement-procedures-selection.md",
       "description": "Procurement Procedures Selection"
     },
     {
-      "name": "skill-3.md",
+      "name": "drafting-tender-documents-requirements-specs.md",
       "description": "Drafting Tender Documents (Requirements & Specs)"
     },
     {
-      "name": "skill-4.md",
+      "name": "exclusion-grounds-selection-criteria.md",
       "description": "Exclusion Grounds & Selection Criteria"
     },
     {
-      "name": "skill-5.md",
+      "name": "award-criteria-meat.md",
       "description": "Award Criteria (MEAT)"
     },
     {
-      "name": "skill-6.md",
+      "name": "abnormally-low-tenders-alt.md",
       "description": "Abnormally Low Tenders (ALT)"
     },
     {
-      "name": "skill-7.md",
+      "name": "framework-agreements-dynamic-purchasing-systems.md",
       "description": "Framework Agreements & Dynamic Purchasing Systems"
     },
     {
-      "name": "skill-8.md",
+      "name": "green-and-social-public-procurement-gpp-srpp.md",
       "description": "Green and Social Public Procurement (GPP/SRPP)"
     },
     {
-      "name": "skill-9.md",
+      "name": "contract-modifications-art-72.md",
       "description": "Contract Modifications (Art. 72)"
     },
     {
-      "name": "skill-10.md",
+      "name": "e-procurement-and-ted-tenders-electronic-daily.md",
       "description": "E-Procurement and TED (Tenders Electronic Daily)"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

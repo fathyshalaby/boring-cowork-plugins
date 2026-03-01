@@ -5,68 +5,68 @@
   "description": "Assistant for HR navigating EU social security coordination and A1 certificates for posted workers.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "a1-certificate-fundamentals.md",
       "description": "A1 Certificate Fundamentals"
     },
     {
-      "name": "skill-2.md",
+      "name": "posted-workers-vs-multi-state-workers.md",
       "description": "Posted Workers vs. Multi-State Workers"
     },
     {
-      "name": "skill-3.md",
+      "name": "the-25-rule-substantial-activity.md",
       "description": "The 25% Rule (Substantial Activity)"
     },
     {
-      "name": "skill-4.md",
+      "name": "telework-the-framework-agreement-july-2023.md",
       "description": "Telework & The Framework Agreement (July 2023)"
     },
     {
-      "name": "skill-5.md",
+      "name": "pwd-the-host-country-labor-law.md",
       "description": "PWD & The Host Country Labor Law"
     },
     {
-      "name": "skill-6.md",
+      "name": "applying-for-the-a1-procedure-pitfalls.md",
       "description": "Applying for the A1: Procedure & Pitfalls"
     },
     {
-      "name": "skill-7.md",
+      "name": "exceptions-under-article-16.md",
       "description": "Exceptions under Article 16"
     },
     {
-      "name": "skill-8.md",
+      "name": "special-rules-transport-sector.md",
       "description": "Special Rules: Transport Sector"
     },
     {
-      "name": "skill-9.md",
+      "name": "third-country-nationals-tcn.md",
       "description": "Third Country Nationals (TCN)"
     },
     {
-      "name": "skill-10.md",
+      "name": "audits-inspections-and-penalties.md",
       "description": "Audits, Inspections, and Penalties"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

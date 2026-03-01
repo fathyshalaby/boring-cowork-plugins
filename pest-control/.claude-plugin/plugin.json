@@ -5,68 +5,68 @@
   "description": "Assistant for Pest Control Technicians logging treatments and crafting IPM plans.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "pest-identification-biology.md",
       "description": "Pest Identification & Biology"
     },
     {
-      "name": "skill-2.md",
+      "name": "integrated-pest-management-ipm.md",
       "description": "Integrated Pest Management (IPM)"
     },
     {
-      "name": "skill-3.md",
+      "name": "pesticide-application-safety.md",
       "description": "Pesticide Application & Safety"
     },
     {
-      "name": "skill-4.md",
+      "name": "termite-management.md",
       "description": "Termite Management"
     },
     {
-      "name": "skill-5.md",
+      "name": "bed-bug-management.md",
       "description": "Bed Bug Management"
     },
     {
-      "name": "skill-6.md",
+      "name": "rodent-management.md",
       "description": "Rodent Management"
     },
     {
-      "name": "skill-7.md",
+      "name": "ant-management.md",
       "description": "Ant Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "wildlife-nuisance-animal-management.md",
       "description": "Wildlife & Nuisance Animal Management"
     },
     {
-      "name": "skill-9.md",
+      "name": "regulatory-compliance-licensing.md",
       "description": "Regulatory Compliance & Licensing"
     },
     {
-      "name": "skill-10.md",
+      "name": "client-communication-service-reports.md",
       "description": "Client Communication & Service Reports"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

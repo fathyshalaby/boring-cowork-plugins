@@ -5,68 +5,68 @@
   "description": "Assistant for OSHA / Occupational Health & Safety Officers investigating hazards and ensuring compliance.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "osha-regulatory-framework.md",
       "description": "OSHA Regulatory Framework"
     },
     {
-      "name": "skill-2.md",
+      "name": "hazard-identification-jha.md",
       "description": "Hazard Identification & JHA"
     },
     {
-      "name": "skill-3.md",
+      "name": "incident-investigation-reporting.md",
       "description": "Incident Investigation & Reporting"
     },
     {
-      "name": "skill-4.md",
+      "name": "fall-protection-programs.md",
       "description": "Fall Protection Programs"
     },
     {
-      "name": "skill-5.md",
+      "name": "lockout-tagout-loto-programs.md",
       "description": "Lockout/Tagout (LOTO) Programs"
     },
     {
-      "name": "skill-6.md",
+      "name": "hazard-communication-ghs-hazcom.md",
       "description": "Hazard Communication (GHS/HazCom)"
     },
     {
-      "name": "skill-7.md",
+      "name": "respiratory-protection-programs.md",
       "description": "Respiratory Protection Programs"
     },
     {
-      "name": "skill-8.md",
+      "name": "emergency-action-plans.md",
       "description": "Emergency Action Plans"
     },
     {
-      "name": "skill-9.md",
+      "name": "safety-training-program-design.md",
       "description": "Safety Training Program Design"
     },
     {
-      "name": "skill-10.md",
+      "name": "osha-inspection-citation-response.md",
       "description": "OSHA Inspection & Citation Response"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

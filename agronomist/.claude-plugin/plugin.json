@@ -5,68 +5,68 @@
   "description": "Assistant for Agriculture & Crop Consultants handling soil data, weather inputs, and scouting.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "soil-science-fertility-management.md",
       "description": "Soil Science & Fertility Management"
     },
     {
-      "name": "skill-2.md",
+      "name": "crop-scouting-field-diagnostics.md",
       "description": "Crop Scouting & Field Diagnostics"
     },
     {
-      "name": "skill-3.md",
+      "name": "crop-rotation-cropping-systems.md",
       "description": "Crop Rotation & Cropping Systems"
     },
     {
-      "name": "skill-4.md",
+      "name": "precision-agriculture-technology.md",
       "description": "Precision Agriculture Technology"
     },
     {
-      "name": "skill-5.md",
+      "name": "water-management-irrigation.md",
       "description": "Water Management & Irrigation"
     },
     {
-      "name": "skill-6.md",
+      "name": "pest-management-crop-protection.md",
       "description": "Pest Management & Crop Protection"
     },
     {
-      "name": "skill-7.md",
+      "name": "regulatory-environmental-compliance.md",
       "description": "Regulatory & Environmental Compliance"
     },
     {
-      "name": "skill-8.md",
+      "name": "grain-marketing-risk-management.md",
       "description": "Grain Marketing & Risk Management"
     },
     {
-      "name": "skill-9.md",
+      "name": "weather-interpretation-risk-assessment.md",
       "description": "Weather Interpretation & Risk Assessment"
     },
     {
-      "name": "skill-10.md",
+      "name": "client-grower-relations.md",
       "description": "Client & Grower Relations"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

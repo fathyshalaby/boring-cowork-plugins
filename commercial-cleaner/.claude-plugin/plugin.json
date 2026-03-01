@@ -5,68 +5,68 @@
   "description": "Assistant for Commercial Cleaning / Janitorial Supervisors managing shifts, QA, and inventory.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "cleaning-chemical-knowledge-safety.md",
       "description": "Cleaning Chemical Knowledge & Safety"
     },
     {
-      "name": "skill-2.md",
+      "name": "floor-care-maintenance.md",
       "description": "Floor Care & Maintenance"
     },
     {
-      "name": "skill-3.md",
+      "name": "restroom-cleaning-sanitation.md",
       "description": "Restroom Cleaning & Sanitation"
     },
     {
-      "name": "skill-4.md",
+      "name": "quality-assurance-inspection.md",
       "description": "Quality Assurance & Inspection"
     },
     {
-      "name": "skill-5.md",
+      "name": "staffing-shift-management.md",
       "description": "Staffing & Shift Management"
     },
     {
-      "name": "skill-6.md",
+      "name": "infection-control-biohazard-cleaning.md",
       "description": "Infection Control & Biohazard Cleaning"
     },
     {
-      "name": "skill-7.md",
+      "name": "green-cleaning-sustainability.md",
       "description": "Green Cleaning & Sustainability"
     },
     {
-      "name": "skill-8.md",
+      "name": "equipment-operation-maintenance.md",
       "description": "Equipment Operation & Maintenance"
     },
     {
-      "name": "skill-9.md",
+      "name": "client-contract-management.md",
       "description": "Client Contract Management"
     },
     {
-      "name": "skill-10.md",
+      "name": "specialty-cleaning-services.md",
       "description": "Specialty Cleaning Services"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

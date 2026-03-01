@@ -5,68 +5,68 @@
   "description": "Assistant for Food Safety & QA Managers handling HACCP, SSOPs, and regulatory audits.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "haccp-plan-development.md",
       "description": "HACCP Plan Development"
     },
     {
-      "name": "skill-2.md",
+      "name": "food-safety-regulations-standards.md",
       "description": "Food Safety Regulations & Standards"
     },
     {
-      "name": "skill-3.md",
+      "name": "temperature-control-monitoring.md",
       "description": "Temperature Control & Monitoring"
     },
     {
-      "name": "skill-4.md",
+      "name": "allergen-management.md",
       "description": "Allergen Management"
     },
     {
-      "name": "skill-5.md",
+      "name": "sanitation-cleaning-programs.md",
       "description": "Sanitation & Cleaning Programs"
     },
     {
-      "name": "skill-6.md",
+      "name": "pest-management-in-food-facilities.md",
       "description": "Pest Management in Food Facilities"
     },
     {
-      "name": "skill-7.md",
+      "name": "supplier-management-receiving.md",
       "description": "Supplier Management & Receiving"
     },
     {
-      "name": "skill-8.md",
+      "name": "recall-traceability.md",
       "description": "Recall & Traceability"
     },
     {
-      "name": "skill-9.md",
+      "name": "gmp-prerequisite-programs.md",
       "description": "GMP & Prerequisite Programs"
     },
     {
-      "name": "skill-10.md",
+      "name": "food-safety-training-programs.md",
       "description": "Food Safety Training Programs"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

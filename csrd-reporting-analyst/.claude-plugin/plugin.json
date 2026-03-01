@@ -5,68 +5,68 @@
   "description": "Assistant for Sustainability Analysts handling CSRD, ESRS, and Double Materiality.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "csrd-esrs-fundamentals.md",
       "description": "CSRD & ESRS Fundamentals"
     },
     {
-      "name": "skill-2.md",
+      "name": "double-materiality-assessment-dma.md",
       "description": "Double Materiality Assessment (DMA)"
     },
     {
-      "name": "skill-3.md",
+      "name": "the-value-chain-perspective.md",
       "description": "The Value Chain Perspective"
     },
     {
-      "name": "skill-4.md",
+      "name": "climate-change-reporting-esrs-e1.md",
       "description": "Climate Change Reporting (ESRS E1)"
     },
     {
-      "name": "skill-5.md",
+      "name": "own-workforce-reporting-esrs-s1.md",
       "description": "Own Workforce Reporting (ESRS S1)"
     },
     {
-      "name": "skill-6.md",
+      "name": "governance-business-conduct-esrs-g1.md",
       "description": "Governance & Business Conduct (ESRS G1)"
     },
     {
-      "name": "skill-7.md",
+      "name": "data-architecture-and-reporting-controls.md",
       "description": "Data Architecture and Reporting Controls"
     },
     {
-      "name": "skill-8.md",
+      "name": "eu-taxonomy-alignment.md",
       "description": "EU Taxonomy Alignment"
     },
     {
-      "name": "skill-9.md",
+      "name": "gap-analysis-and-roadmap-development.md",
       "description": "Gap Analysis and Roadmap Development"
     },
     {
-      "name": "skill-10.md",
+      "name": "phase-in-timelines-and-applicability.md",
       "description": "Phase-in Timelines and Applicability"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

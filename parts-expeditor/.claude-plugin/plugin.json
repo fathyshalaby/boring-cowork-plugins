@@ -5,68 +5,68 @@
   "description": "Assistant for Manufacturing Parts Expeditors handling PO execution, supplier relations, and WIP.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "parts-procurement-sourcing.md",
       "description": "Parts Procurement & Sourcing"
     },
     {
-      "name": "skill-2.md",
+      "name": "inventory-management-control.md",
       "description": "Inventory Management & Control"
     },
     {
-      "name": "skill-3.md",
+      "name": "expediting-delivery-management.md",
       "description": "Expediting & Delivery Management"
     },
     {
-      "name": "skill-4.md",
+      "name": "supplier-performance-management.md",
       "description": "Supplier Performance Management"
     },
     {
-      "name": "skill-5.md",
+      "name": "mro-parts-maintenance-support.md",
       "description": "MRO Parts & Maintenance Support"
     },
     {
-      "name": "skill-6.md",
+      "name": "bom-management-analysis.md",
       "description": "BOM Management & Analysis"
     },
     {
-      "name": "skill-7.md",
+      "name": "logistics-freight-management.md",
       "description": "Logistics & Freight Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "quality-receiving-inspection.md",
       "description": "Quality & Receiving Inspection"
     },
     {
-      "name": "skill-9.md",
+      "name": "erp-mrp-system-management.md",
       "description": "ERP/MRP System Management"
     },
     {
-      "name": "skill-10.md",
+      "name": "cost-reduction-value-engineering.md",
       "description": "Cost Reduction & Value Engineering"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

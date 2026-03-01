@@ -5,68 +5,68 @@
   "description": "Assistant for Commercial Fleet Managers handling maintenance, compliance, and dispatch logs.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "fleet-operations-vehicle-lifecycle.md",
       "description": "Fleet Operations & Vehicle Lifecycle"
     },
     {
-      "name": "skill-2.md",
+      "name": "preventive-maintenance-programs.md",
       "description": "Preventive Maintenance Programs"
     },
     {
-      "name": "skill-3.md",
+      "name": "dot-compliance-regulations.md",
       "description": "DOT Compliance & Regulations"
     },
     {
-      "name": "skill-4.md",
+      "name": "fuel-management-cost-control.md",
       "description": "Fuel Management & Cost Control"
     },
     {
-      "name": "skill-5.md",
+      "name": "telematics-gps-fleet-tracking.md",
       "description": "Telematics & GPS Fleet Tracking"
     },
     {
-      "name": "skill-6.md",
+      "name": "fleet-safety-accident-management.md",
       "description": "Fleet Safety & Accident Management"
     },
     {
-      "name": "skill-7.md",
+      "name": "ev-fleet-transition-planning.md",
       "description": "EV Fleet Transition Planning"
     },
     {
-      "name": "skill-8.md",
+      "name": "vehicle-specification-procurement.md",
       "description": "Vehicle Specification & Procurement"
     },
     {
-      "name": "skill-9.md",
+      "name": "fleet-budgeting-financial-analysis.md",
       "description": "Fleet Budgeting & Financial Analysis"
     },
     {
-      "name": "skill-10.md",
+      "name": "fleet-technology-reporting.md",
       "description": "Fleet Technology & Reporting"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

@@ -5,68 +5,68 @@
   "description": "Assistant for Regulatory Affairs handling ECHA, SVHCs, and SDS authoring.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "reach-fundamentals-roles.md",
       "description": "REACH Fundamentals & Roles"
     },
     {
-      "name": "skill-2.md",
+      "name": "reach-registration-process.md",
       "description": "REACH Registration Process"
     },
     {
-      "name": "skill-3.md",
+      "name": "svhcs-and-the-candidate-list.md",
       "description": "SVHCs and the Candidate List"
     },
     {
-      "name": "skill-4.md",
+      "name": "the-scip-database.md",
       "description": "The SCIP Database"
     },
     {
-      "name": "skill-5.md",
+      "name": "authorisation-restriction-annex-xiv-xvii.md",
       "description": "Authorisation & Restriction (Annex XIV & XVII)"
     },
     {
-      "name": "skill-6.md",
+      "name": "safety-data-sheets-sds-exposure-scenarios.md",
       "description": "Safety Data Sheets (SDS) & Exposure Scenarios"
     },
     {
-      "name": "skill-7.md",
+      "name": "clp-regulation-classification-labelling-packaging.md",
       "description": "CLP Regulation (Classification, Labelling, Packaging)"
     },
     {
-      "name": "skill-8.md",
+      "name": "supply-chain-communication-bom-scrubbing.md",
       "description": "Supply Chain Communication & BOM Scrubbing"
     },
     {
-      "name": "skill-9.md",
+      "name": "rohs-vs-reach-integration.md",
       "description": "RoHS vs. REACH Integration"
     },
     {
-      "name": "skill-10.md",
+      "name": "enforcement-and-auditing.md",
       "description": "Enforcement and Auditing"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

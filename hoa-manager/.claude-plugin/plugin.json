@@ -5,68 +5,68 @@
   "description": "Assistant for HOA Property Managers handling residents, vendors, and CC&R enforcement.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "hoa-governance-legal-framework.md",
       "description": "HOA Governance & Legal Framework"
     },
     {
-      "name": "skill-2.md",
+      "name": "financial-management-budgeting.md",
       "description": "Financial Management & Budgeting"
     },
     {
-      "name": "skill-3.md",
+      "name": "architectural-review-standards.md",
       "description": "Architectural Review & Standards"
     },
     {
-      "name": "skill-4.md",
+      "name": "maintenance-common-area-management.md",
       "description": "Maintenance & Common Area Management"
     },
     {
-      "name": "skill-5.md",
+      "name": "rule-enforcement-violations.md",
       "description": "Rule Enforcement & Violations"
     },
     {
-      "name": "skill-6.md",
+      "name": "insurance-risk-management.md",
       "description": "Insurance & Risk Management"
     },
     {
-      "name": "skill-7.md",
+      "name": "communication-community-relations.md",
       "description": "Communication & Community Relations"
     },
     {
-      "name": "skill-8.md",
+      "name": "reserve-study-long-term-planning.md",
       "description": "Reserve Study & Long-Term Planning"
     },
     {
-      "name": "skill-9.md",
+      "name": "collections-legal-processes.md",
       "description": "Collections & Legal Processes"
     },
     {
-      "name": "skill-10.md",
+      "name": "transition-from-developer-control.md",
       "description": "Transition from Developer Control"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

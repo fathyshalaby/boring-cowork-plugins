@@ -5,68 +5,68 @@
   "description": "Assistant for Grant Writers managing government RFPs and budget narratives.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "grant-landscape-funding-sources.md",
       "description": "Grant Landscape & Funding Sources"
     },
     {
-      "name": "skill-2.md",
+      "name": "proposal-writing-fundamentals.md",
       "description": "Proposal Writing Fundamentals"
     },
     {
-      "name": "skill-3.md",
+      "name": "budget-development-justification.md",
       "description": "Budget Development & Justification"
     },
     {
-      "name": "skill-4.md",
+      "name": "compliance-regulatory-requirements.md",
       "description": "Compliance & Regulatory Requirements"
     },
     {
-      "name": "skill-5.md",
+      "name": "needs-assessment-logic-models.md",
       "description": "Needs Assessment & Logic Models"
     },
     {
-      "name": "skill-6.md",
+      "name": "nih-grant-writing.md",
       "description": "NIH Grant Writing"
     },
     {
-      "name": "skill-7.md",
+      "name": "nsf-proposal-writing.md",
       "description": "NSF Proposal Writing"
     },
     {
-      "name": "skill-8.md",
+      "name": "foundation-grant-writing.md",
       "description": "Foundation Grant Writing"
     },
     {
-      "name": "skill-9.md",
+      "name": "post-award-grant-management.md",
       "description": "Post-Award Grant Management"
     },
     {
-      "name": "skill-10.md",
+      "name": "grant-writing-for-nonprofits.md",
       "description": "Grant Writing for Nonprofits"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

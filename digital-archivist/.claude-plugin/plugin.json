@@ -5,68 +5,68 @@
   "description": "Assistant for Metadata Librarians managing collections and finding aids.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "metadata-standards-dublin-core.md",
       "description": "Metadata Standards & Dublin Core"
     },
     {
-      "name": "skill-2.md",
+      "name": "digital-preservation-strategies.md",
       "description": "Digital Preservation Strategies"
     },
     {
-      "name": "skill-3.md",
+      "name": "digitization-standards-workflows.md",
       "description": "Digitization Standards & Workflows"
     },
     {
-      "name": "skill-4.md",
+      "name": "archival-arrangement-description.md",
       "description": "Archival Arrangement & Description"
     },
     {
-      "name": "skill-5.md",
+      "name": "digital-repository-management.md",
       "description": "Digital Repository Management"
     },
     {
-      "name": "skill-6.md",
+      "name": "copyright-rights-management.md",
       "description": "Copyright & Rights Management"
     },
     {
-      "name": "skill-7.md",
+      "name": "data-migration-format-management.md",
       "description": "Data Migration & Format Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "digital-exhibits-public-access.md",
       "description": "Digital Exhibits & Public Access"
     },
     {
-      "name": "skill-9.md",
+      "name": "disaster-preparedness-recovery.md",
       "description": "Disaster Preparedness & Recovery"
     },
     {
-      "name": "skill-10.md",
+      "name": "grant-writing-for-archives.md",
       "description": "Grant Writing for Archives"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

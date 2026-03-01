@@ -5,68 +5,68 @@
   "description": "Assistant for Import-Export Specialists handling HTS classification and compliance.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "hts-classification-tariff-schedule.md",
       "description": "HTS Classification & Tariff Schedule"
     },
     {
-      "name": "skill-2.md",
+      "name": "entry-filing-cbp-procedures.md",
       "description": "Entry Filing & CBP Procedures"
     },
     {
-      "name": "skill-3.md",
+      "name": "duty-calculation-valuation.md",
       "description": "Duty Calculation & Valuation"
     },
     {
-      "name": "skill-4.md",
+      "name": "trade-compliance-regulations.md",
       "description": "Trade Compliance & Regulations"
     },
     {
-      "name": "skill-5.md",
+      "name": "fta-rules-of-origin.md",
       "description": "FTA & Rules of Origin"
     },
     {
-      "name": "skill-6.md",
+      "name": "bonded-warehousing-ftz-operations.md",
       "description": "Bonded Warehousing & FTZ Operations"
     },
     {
-      "name": "skill-7.md",
+      "name": "import-export-documentation.md",
       "description": "Import/Export Documentation"
     },
     {
-      "name": "skill-8.md",
+      "name": "sanctions-denied-party-screening.md",
       "description": "Sanctions & Denied Party Screening"
     },
     {
-      "name": "skill-9.md",
+      "name": "logistics-supply-chain-coordination.md",
       "description": "Logistics & Supply Chain Coordination"
     },
     {
-      "name": "skill-10.md",
+      "name": "c-tpat-trusted-trader-programs.md",
       "description": "C-TPAT & Trusted Trader Programs"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

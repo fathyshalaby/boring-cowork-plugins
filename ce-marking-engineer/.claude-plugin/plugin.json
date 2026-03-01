@@ -5,68 +5,68 @@
   "description": "Assistant for Certification Engineers managing EU Directives and Technical Files.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "ce-marking-fundamentals-framework.md",
       "description": "CE Marking Fundamentals & Framework"
     },
     {
-      "name": "skill-2.md",
+      "name": "directives-regulations-identification.md",
       "description": "Directives & Regulations Identification"
     },
     {
-      "name": "skill-3.md",
+      "name": "harmonized-standards-navigation.md",
       "description": "Harmonized Standards Navigation"
     },
     {
-      "name": "skill-4.md",
+      "name": "conformity-assessment-modules.md",
       "description": "Conformity Assessment Modules"
     },
     {
-      "name": "skill-5.md",
+      "name": "risk-assessment-methodology.md",
       "description": "Risk Assessment Methodology"
     },
     {
-      "name": "skill-6.md",
+      "name": "technical-file-technical-documentation.md",
       "description": "Technical File / Technical Documentation"
     },
     {
-      "name": "skill-7.md",
+      "name": "the-eu-declaration-of-conformity-doc.md",
       "description": "The EU Declaration of Conformity (DoC)"
     },
     {
-      "name": "skill-8.md",
+      "name": "ce-marking-affixing-rules.md",
       "description": "CE Marking Affixing Rules"
     },
     {
-      "name": "skill-9.md",
+      "name": "ukca-vs-ce-marking-integration.md",
       "description": "UKCA vs. CE Marking Integration"
     },
     {
-      "name": "skill-10.md",
+      "name": "instructions-user-manual-compliance.md",
       "description": "Instructions & User Manual Compliance"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

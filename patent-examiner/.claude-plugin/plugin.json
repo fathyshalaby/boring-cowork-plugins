@@ -5,68 +5,68 @@
   "description": "Assistant for Patent Examiners and IP Paralegals managing claims and prior art.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "patent-law-fundamentals.md",
       "description": "Patent Law Fundamentals"
     },
     {
-      "name": "skill-2.md",
+      "name": "prior-art-search-strategies.md",
       "description": "Prior Art Search Strategies"
     },
     {
-      "name": "skill-3.md",
+      "name": "claim-drafting-analysis.md",
       "description": "Claim Drafting & Analysis"
     },
     {
-      "name": "skill-4.md",
+      "name": "patent-prosecution-procedures.md",
       "description": "Patent Prosecution Procedures"
     },
     {
-      "name": "skill-5.md",
+      "name": "obviousness-analysis-103.md",
       "description": "Obviousness Analysis (\u00a7103)"
     },
     {
-      "name": "skill-6.md",
+      "name": "patent-drawings-specifications.md",
       "description": "Patent Drawings & Specifications"
     },
     {
-      "name": "skill-7.md",
+      "name": "international-patent-protection.md",
       "description": "International Patent Protection"
     },
     {
-      "name": "skill-8.md",
+      "name": "patent-infringement-freedom-to-operate.md",
       "description": "Patent Infringement & Freedom-to-Operate"
     },
     {
-      "name": "skill-9.md",
+      "name": "patent-portfolio-management.md",
       "description": "Patent Portfolio Management"
     },
     {
-      "name": "skill-10.md",
+      "name": "patent-valuation-licensing.md",
       "description": "Patent Valuation & Licensing"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

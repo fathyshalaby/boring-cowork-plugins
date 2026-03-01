@@ -5,68 +5,68 @@
   "description": "Assistant for IP Paralegals managing EUIPO filings, oppositions, and Nice classifications.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "the-eu-trademark-eutm-system.md",
       "description": "The EU Trademark (EUTM) System"
     },
     {
-      "name": "skill-2.md",
+      "name": "the-nice-classification-system.md",
       "description": "The Nice Classification System"
     },
     {
-      "name": "skill-3.md",
+      "name": "absolute-grounds-for-refusal-art-7-eutmr.md",
       "description": "Absolute Grounds for Refusal (Art. 7 EUTMR)"
     },
     {
-      "name": "skill-4.md",
+      "name": "relative-grounds-the-opposition-process.md",
       "description": "Relative Grounds & The Opposition Process"
     },
     {
-      "name": "skill-5.md",
+      "name": "evidence-of-genuine-use.md",
       "description": "Evidence of Genuine Use"
     },
     {
-      "name": "skill-6.md",
+      "name": "cancellation-actions-revocation-invalidity.md",
       "description": "Cancellation Actions (Revocation & Invalidity)"
     },
     {
-      "name": "skill-7.md",
+      "name": "registered-community-designs-rcd.md",
       "description": "Registered Community Designs (RCD)"
     },
     {
-      "name": "skill-8.md",
+      "name": "recordals-transfers-licenses-changes-of-name.md",
       "description": "Recordals (Transfers, Licenses, Changes of Name)"
     },
     {
-      "name": "skill-9.md",
+      "name": "seniority-claims.md",
       "description": "Seniority Claims"
     },
     {
-      "name": "skill-10.md",
+      "name": "monitoring-cease-and-desist-c-d-operations.md",
       "description": "Monitoring & Cease and Desist (C&D) Operations"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

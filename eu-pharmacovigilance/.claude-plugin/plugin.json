@@ -5,68 +5,68 @@
   "description": "Assistant for PV Officers managing EMA ICSRs, PSURs, and EudraVigilance.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "pharmacovigilance-risk-assessment-committee-prac.md",
       "description": "Pharmacovigilance Risk Assessment Committee (PRAC)"
     },
     {
-      "name": "skill-2.md",
+      "name": "good-pharmacovigilance-practices-gvp.md",
       "description": "Good Pharmacovigilance Practices (GVP)"
     },
     {
-      "name": "skill-3.md",
+      "name": "the-qppv-and-the-psmf.md",
       "description": "The QPPV and the PSMF"
     },
     {
-      "name": "skill-4.md",
+      "name": "individual-case-safety-reports-icsrs-eudravigilance.md",
       "description": "Individual Case Safety Reports (ICSRs) & EudraVigilance"
     },
     {
-      "name": "skill-5.md",
+      "name": "periodic-safety-update-reports-psur-pbrer.md",
       "description": "Periodic Safety Update Reports (PSUR/PBRER)"
     },
     {
-      "name": "skill-6.md",
+      "name": "risk-management-plans-rmp.md",
       "description": "Risk Management Plans (RMP)"
     },
     {
-      "name": "skill-7.md",
+      "name": "signal-detection-and-management.md",
       "description": "Signal Detection and Management"
     },
     {
-      "name": "skill-8.md",
+      "name": "medical-literature-monitoring-mlm.md",
       "description": "Medical Literature Monitoring (MLM)"
     },
     {
-      "name": "skill-9.md",
+      "name": "direct-healthcare-professional-communications-dhpc.md",
       "description": "Direct Healthcare Professional Communications (DHPC)"
     },
     {
-      "name": "skill-10.md",
+      "name": "audits-inspections-and-capa-management.md",
       "description": "Audits, Inspections, and CAPA Management"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

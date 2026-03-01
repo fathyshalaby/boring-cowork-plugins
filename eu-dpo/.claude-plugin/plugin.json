@@ -5,68 +5,68 @@
   "description": "Assistant for DPOs managing GDPR compliance, DPIAs, and DSARs.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "gdpr-fundamentals-principles.md",
       "description": "GDPR Fundamentals & Principles"
     },
     {
-      "name": "skill-2.md",
+      "name": "lawful-basis-for-processing.md",
       "description": "Lawful Basis for Processing"
     },
     {
-      "name": "skill-3.md",
+      "name": "data-subject-rights-dsr-dsar.md",
       "description": "Data Subject Rights (DSR/DSAR)"
     },
     {
-      "name": "skill-4.md",
+      "name": "data-protection-impact-assessments-dpia.md",
       "description": "Data Protection Impact Assessments (DPIA)"
     },
     {
-      "name": "skill-5.md",
+      "name": "record-of-processing-activities-ropa.md",
       "description": "Record of Processing Activities (RoPA)"
     },
     {
-      "name": "skill-6.md",
+      "name": "data-breach-management-reporting.md",
       "description": "Data Breach Management & Reporting"
     },
     {
-      "name": "skill-7.md",
+      "name": "international-data-transfers.md",
       "description": "International Data Transfers"
     },
     {
-      "name": "skill-8.md",
+      "name": "processor-management-data-processing-agreements.md",
       "description": "Processor Management & Data Processing Agreements"
     },
     {
-      "name": "skill-9.md",
+      "name": "cookies-tracking-eprivacy.md",
       "description": "Cookies, Tracking & ePrivacy"
     },
     {
-      "name": "skill-10.md",
+      "name": "role-of-the-dpo-organizational-governance.md",
       "description": "Role of the DPO & Organizational Governance"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

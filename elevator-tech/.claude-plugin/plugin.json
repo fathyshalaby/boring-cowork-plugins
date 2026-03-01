@@ -5,68 +5,68 @@
   "description": "Assistant for Elevator / Escalator Maintenance Technicians handling codes, PMs, and parts.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "elevator-code-standards.md",
       "description": "Elevator Code & Standards"
     },
     {
-      "name": "skill-2.md",
+      "name": "traction-elevator-systems.md",
       "description": "Traction Elevator Systems"
     },
     {
-      "name": "skill-3.md",
+      "name": "hydraulic-elevator-systems.md",
       "description": "Hydraulic Elevator Systems"
     },
     {
-      "name": "skill-4.md",
+      "name": "preventive-maintenance-programs.md",
       "description": "Preventive Maintenance Programs"
     },
     {
-      "name": "skill-5.md",
+      "name": "troubleshooting-diagnostics.md",
       "description": "Troubleshooting & Diagnostics"
     },
     {
-      "name": "skill-6.md",
+      "name": "door-systems-adjustments.md",
       "description": "Door Systems & Adjustments"
     },
     {
-      "name": "skill-7.md",
+      "name": "fire-service-emergency-operations.md",
       "description": "Fire Service & Emergency Operations"
     },
     {
-      "name": "skill-8.md",
+      "name": "modernization-planning.md",
       "description": "Modernization Planning"
     },
     {
-      "name": "skill-9.md",
+      "name": "safety-devices-testing.md",
       "description": "Safety Devices & Testing"
     },
     {
-      "name": "skill-10.md",
+      "name": "customer-communication-building-management.md",
       "description": "Customer Communication & Building Management"
     },
     {
-      "name": "skill-11.md",
-      "description": "Universal professional operational skill"
+      "name": "scope-creep-pushback.md",
+      "description": "Scope Creep Pushback"
     },
     {
-      "name": "skill-12.md",
-      "description": "Universal professional operational skill"
+      "name": "business-value-translation.md",
+      "description": "Business Value Translation"
     },
     {
-      "name": "skill-13.md",
-      "description": "Universal professional operational skill"
+      "name": "defensive-documentation.md",
+      "description": "Defensive Documentation"
     },
     {
-      "name": "skill-14.md",
-      "description": "Universal professional operational skill"
+      "name": "navigating-organizational-friction.md",
+      "description": "Navigating Organizational Friction"
     },
     {
-      "name": "skill-15.md",
-      "description": "Universal professional operational skill"
+      "name": "information-triage.md",
+      "description": "Information Triage"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [

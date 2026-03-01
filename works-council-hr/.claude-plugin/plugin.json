@@ -5,68 +5,68 @@
   "description": "Assistant for HR navigating EU co-determination, Betriebsrat, and CSE consultations.",
   "skills": [
     {
-      "name": "skill-1.md",
+      "name": "information-and-consultation-rights.md",
       "description": "Information and Consultation Rights"
     },
     {
-      "name": "skill-2.md",
+      "name": "co-determination-the-german-model.md",
       "description": "Co-Determination (The German Model)"
     },
     {
-      "name": "skill-3.md",
+      "name": "the-french-cse-comit-social-et-conomique.md",
       "description": "The French CSE (Comit\u00e9 Social et \u00c9conomique)"
     },
     {
-      "name": "skill-4.md",
+      "name": "handling-transfers-of-undertakings-tupe.md",
       "description": "Handling Transfers of Undertakings (TUPE)"
     },
     {
-      "name": "skill-5.md",
+      "name": "european-works-councils-ewc.md",
       "description": "European Works Councils (EWC)"
     },
     {
-      "name": "skill-6.md",
+      "name": "collective-redundancies-restructuring.md",
       "description": "Collective Redundancies (Restructuring)"
     },
     {
-      "name": "skill-7.md",
+      "name": "negotiating-works-agreements-company-agreements.md",
       "description": "Negotiating Works Agreements & Company Agreements"
     },
     {
-      "name": "skill-8.md",
+      "name": "trade-unions-vs-works-councils.md",
       "description": "Trade Unions vs. Works Councils"
     },
     {
-      "name": "skill-9.md",
+      "name": "privacy-data-protection-at-work-gdpr-vs-wc.md",
       "description": "Privacy & Data Protection at Work (GDPR vs WC)"
     },
     {
-      "name": "skill-10.md",
+      "name": "managing-difficult-relations-and-deadlocks.md",
       "description": "Managing Difficult Relations and Deadlocks"
     },
     {
-      "name": "skill-11.md",
+      "name": "cross-cutting-operational-reality.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-12.md",
+      "name": "cross-cutting-operational-reality-2.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-13.md",
+      "name": "cross-cutting-operational-reality-3.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-14.md",
+      "name": "cross-cutting-operational-reality-4.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-15.md",
+      "name": "cross-cutting-operational-reality-5.md",
       "description": "Cross-cutting operational reality"
     },
     {
-      "name": "skill-16.md",
-      "description": "Mechanism for continuous self-improvement and learning from the user."
+      "name": "self-improvement-protocol.md",
+      "description": "Self Improvement Protocol"
     }
   ],
   "commands": [
